@@ -9,7 +9,7 @@ Feito com base em um curso de MERN -> [Canal do Tutor](https://www.youtube.com/@
 * Express
 * React.js
 * Node.js -> 20.14
-* MangoDB
+* MongoDB
 * Tailwind
 * Cloudinary
 * bcryptjs
